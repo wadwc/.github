@@ -5,7 +5,7 @@
 ![aitransformationloop](https://github.com/buildstuffdemo/.github/assets/10250297/9ea3af46-f23c-4e1c-bb65-1e72d1d7ba1f)
 
 ## Demos
-https://buildstuffdemo.github.io
+https://wadwc.github.io
 
 <!--
 
