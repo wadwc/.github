@@ -1,4 +1,4 @@
-# Welcome to the AI Workflow Supercharge Workshop!
+# Welcome to the Supercharge Workflow with AI Workshop!
 
 ## Introduction
 This workshop is designed to help you supercharge your workflows with AI. We'll cover a range of topics, including how to integrate AI tools into your daily tasks, automate repetitive processes, and leverage AI for better decision-making.
